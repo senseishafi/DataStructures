@@ -1,0 +1,54 @@
+Word 1                         Word 2                         Count                          
+ 
+ 
+ My                              name                          8                              
+name                            is                            7                              
+Hi!                             My                            3                              
+Slim                            Shady                         3                              
+is                              (what?)                       3                              
+(what?)                         My                            2                              
+Shady                           Hi!                           2                              
+is                              Slim                          2                              
+name                            is)                           2                              
+(huh?)                          My                            1                              
+(my                             name                          1                              
+(what?)                         Excuse                        1                              
+(who?                           My                            1                              
+(who?)                          My                            1                              
+Excuse                          me,                           1                              
+is                              (huh?)                        1                              
+is                              (who?)                        1                              
+is)                             (who?                         1                              
+is)                             Slim                          1                              
+me,                             (my                           1                              
+
+ 
+ 
+ Word 1                         Word 2                         Word 3                         Count                          
+ 
+ My                              name                           is                            7                              
+Hi!                             My                             name                          3                              
+name                            is                             (what?)                       3                              
+(what?)                         My                             name                          2                              
+Shady                           Hi!                            My                            2                              
+Slim                            Shady                          Hi!                           2                              
+is                              (what?)                        My                            2                              
+is                              Slim                           Shady                         2                              
+name                            is                             Slim                          2                              
+(huh?)                          My                             name                          1                              
+(my                             name                           is)                           1                              
+(what?)                         Excuse                         me,                           1                              
+(who?                           My                             name                          1                              
+(who?)                          My                             name                          1                              
+Excuse                          me,                            (my                           1                              
+My                              name                           is)                           1                              
+is                              (huh?)                         My                            1                              
+is                              (what?)                        Excuse                        1                              
+is                              (who?)                         My                            1                              
+is)                             (who?                          My                            1                              
+is)                             Slim                           Shady                         1                              
+me,                             (my                            name                          1                              
+name                            is                             (huh?)                        1                              
+name                            is                             (who?)                        1                              
+name                            is)                            (who?                         1                              
+name                            is)                            Slim                          1                              
